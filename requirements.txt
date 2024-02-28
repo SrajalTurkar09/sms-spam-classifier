@@ -2,4 +2,6 @@ streamlit
 nltk
 pickle5; python_version < '3.8'
 sklearn
+stopwords
+punkt
 
