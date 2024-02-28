@@ -3,4 +3,3 @@ nltk==3.6.7
 sklearn
 stopwords
 punkt
-pip version 24.0
